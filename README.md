@@ -1,4 +1,4 @@
-#Masarshi App
+##Masarshi App
 
 Masarshi is a user-friendly food delivery web app that allows users to browse food items, view details, and place orders with ease. The interface features smooth category-based sliding, a shopping section, and secure login/signup functionality.
 
